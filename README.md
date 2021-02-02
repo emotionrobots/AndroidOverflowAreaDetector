@@ -1,5 +1,8 @@
 # Advertiser Analyzer
 
+Modified version of David Young's original Advertiser Analyzer to decode overflow area advertisement.
+This app will work with https://github.com/davidgyoung/OverflowAreaBeaconRef
+
 Bare bones Andoroid app designed to analyze iOS background advertisements, looking for what bit patterns are set
 
 This is designed to be run alongside [this app](https://github.com/davidgyoung/BackgroundAdvertiser) on iOS.
